@@ -1,3 +1,6 @@
+Đây là source code của phần Frontend ứng dụng MERN APP - BLOG trên kênh youtube HoleTex
+https://www.youtube.com/watch?v=khcjRUZCufs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
